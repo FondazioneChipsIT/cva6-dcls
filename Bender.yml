@@ -11,7 +11,7 @@ package:
 dependencies:
   apb:                {git: "https://github.com/pulp-platform/apb.git",                rev: "4821618d652cb2b219483f037395b902771a44dd"} # branch: master
   cva6:               {git: "https://github.com/FondazioneChipsIT/cva6.git",           rev: "670e85c4664ce3fcec617079e8feb190bb9dc2de"} # branch: az/devel/cva6-dcls
-  redundancy_cells:   {git: "https://github.com/pulp-platform/redundancy_cells.git",   rev: "3c893231ae34db79abddbfaf6e6167ac7ab2f3d6"} # branch: az/rigoletto
+  redundancy_cells:   {git: "https://github.com/pulp-platform/redundancy_cells.git",   rev: "e36c33f6b06b5e0f50255cf1e7db0abc03b8adfb"} # branch: az/rigoletto
   register_interface: {git: "https://github.com/pulp-platform/register_interface.git", rev: "d6e1d4cdaab7870f4faf3f88a1c788eaf5ac129d"} # branch: master
 
 workspace:
